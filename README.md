@@ -18,7 +18,7 @@ This project is designed to **prevent illegal activities and forest hazards** by
 ---
 
 ## 🛠️ System Architecture
-![System Architecture](- visual selection.png)
+<img src="./-%20visual%20selection.png" alt="System Architecture" width="600"/>
 1. **Data Collection**: Sensors (GPS, smoke, microphone) gather real-time data.
 2. **Processing**: Raspberry Pi processes sensor inputs and runs **YAMNet** for sound classification.
 3. **Detection**: Identifies events like fire (smoke) or suspicious sounds.
